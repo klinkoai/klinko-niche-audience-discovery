@@ -2,7 +2,7 @@
   <h1>🔎 Klinko Niche Audience Discovery</h1>
   <p><strong>Discover overlooked niches, emerging segments, and underserved communities.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Niche Audience Discovery?
 
-Klinko Niche Audience Discovery is an AI agent Skill for finding smaller, specific audiences that broad market analysis often misses. It helps teams surface underserved communities, emerging use cases, concentrated needs, and distinctive audience language so they can explore focused opportunities without defaulting to the largest or most obvious market.
+Klinko Niche Audience Discovery is an AI market research skill for finding smaller, specific audiences that broad market analysis often misses. It helps teams surface underserved communities, emerging use cases, concentrated needs, and distinctive audience language so they can explore focused opportunities without defaulting to the largest or most obvious market.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Break a broad category into specific niche audiences
 - Surface overlooked or underserved audience groups
@@ -35,7 +35,7 @@ Klinko Niche Audience Discovery is an AI agent Skill for finding smaller, specif
 | Unmet needs | Identify possible product or service gaps |
 | Validation priorities | Choose which niche to investigate first |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Niche Audience Discovery is an AI agent Skill for finding smaller, specif
 - Likely unmet needs and opportunity hypotheses
 - A prioritized path for further validation
 
-## Who this Skill is for
+## Who this skill is for
 
 - Founders
 - Innovation teams
@@ -65,13 +65,13 @@ Klinko Niche Audience Discovery is an AI agent Skill for finding smaller, specif
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Niche Audience Discovery workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Niche Audience Discovery workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Audience Finder](https://github.com/klinkoai/klinko-audience-finder)
 - [Market Opportunity Analyst](https://github.com/klinkoai/klinko-market-opportunity-analyst)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
