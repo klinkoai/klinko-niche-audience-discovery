@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** Niche discovery and audience prioritization are now covered by [Klinko Audience Finder](https://github.com/klinkoai/klinko-audience-finder). Use the [current six-skill catalog](https://github.com/klinkoai/ai-market-research-skills) for installation and maintained documentation.
+
 <div align="center">
   <h1>🔎 Klinko Niche Audience Discovery</h1>
   <p><strong>Discover overlooked niches, emerging segments, and underserved communities.</strong></p>
